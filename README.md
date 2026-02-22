@@ -1,4 +1,26 @@
+# Hi, I'm Kanika Chauhan 👋  
 
+🎯 Aspiring Data Analyst  
+📊 Turning raw data into actionable business insights  
+📍 India  
+
+## 🚀 About Me
+- 📈 Following a structured Data Analyst roadmap  
+- 🐍 Strong in Python & MySQL  
+- 📊 Data Analysis using Pandas & NumPy  
+- 📈 Visualization with Matplotlib, Excel & Power BI  
+- 🤖 Exploring Machine Learning & OpenCV  
+
+## 🛠️ Technical Skills
+
+**Language:** Python 
+**Database:** Mysql 
+**Data Analysis:** Pandas, NumPy  
+**Visualization:** Matplotlib, Power BI, Excel  
+**Machine Learning (Basics):** Logistic Regression, KNN
+
+## 📫 Connect With Me
+- Email: kcrajput2006@gmail.com 
 <!--
 **Kanu-Bansal/Kanu-Bansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
