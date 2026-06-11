@@ -15,8 +15,8 @@
 
 ## 💻 Languages & Database
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql)
 
 ## 📊 Data Analysis
 
