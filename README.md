@@ -15,9 +15,10 @@
 
 **Language:** Python 
 **Database:** Mysql 
-**Data Analysis:** Pandas, NumPy  
-**Visualization:** Matplotlib, Power BI, Excel  
-**Machine Learning (Basics):** Logistic Regression, KNN
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+**Tools:** Power BI, Excel, VS Code, Tableau(Basics),Github
+**Analytics:** Data Cleaning, EDA, Data Visualization, Dashboarding, KPI Monitoring, Report Automation, Statistics
+**ML / AI:** Regression, K-Means Clustering, RFM Analysis, Feature Selection, Scikit-learn
 
 ## 📫 Connect With Me
 - Email: kcrajput2006@gmail.com
