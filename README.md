@@ -20,7 +20,8 @@
 **Machine Learning (Basics):** Logistic Regression, KNN
 
 ## 📫 Connect With Me
-- Email: kcrajput2006@gmail.com 
+- Email: kcrajput2006@gmail.com
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username/)
 <!--
 **Kanu-Bansal/Kanu-Bansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
