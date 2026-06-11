@@ -60,11 +60,11 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcchauhan&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanu-Bansal&layout=compact&theme=github_dark)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kcchauhan&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kanu-Bansal&theme=github-dark)
 
 ## 📫 Connect With Me
 - Email: kcrajput2006@gmail.com
