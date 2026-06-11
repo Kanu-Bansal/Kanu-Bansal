@@ -13,12 +13,46 @@
 
 ## 🛠️ Technical Skills
 
-**Language:** Python 
-**Database:** Mysql 
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-**Tools:** Power BI, Excel, VS Code, Tableau(Basics),Github
-**Analytics:** Data Cleaning, EDA, Data Visualization, Dashboarding, KPI Monitoring, Report Automation, Statistics
-**ML / AI:** Regression, K-Means Clustering, RFM Analysis, Feature Selection, Scikit-learn
+## 💻 Languages & Database
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+## 📊 Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+## 🤖 Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+## 🛠️ Tools
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+## 📈 Analytics Skills
+
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4285F4?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-00ACC1?style=for-the-badge)
+![Dashboarding](https://img.shields.io/badge/Dashboarding-7B1FA2?style=for-the-badge)
+![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-43A047?style=for-the-badge)
+![Report Automation](https://img.shields.io/badge/Report_Automation-6D4C41?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-00897B?style=for-the-badge)
+
+## 🧠 ML Concepts
+
+![Regression](https://img.shields.io/badge/Regression-FF7043?style=for-the-badge)
+![K-Means](https://img.shields.io/badge/K--Means_Clustering-5E35B1?style=for-the-badge)
+![RFM Analysis](https://img.shields.io/badge/RFM_Analysis-3949AB?style=for-the-badge)
+![Feature Selection](https://img.shields.io/badge/Feature_Selection-00838F?style=for-the-badge)
 
 ## 📫 Connect With Me
 - Email: kcrajput2006@gmail.com
