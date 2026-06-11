@@ -54,6 +54,10 @@
 ![RFM Analysis](https://img.shields.io/badge/RFM_Analysis-181717?style=for-the-badge&logoColor=white)
 ![Feature Selection](https://img.shields.io/badge/Feature_Selection-181717?style=for-the-badge&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Kanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanu-Bansal&show_icons=true&theme=github_dark)
+
 ## 📫 Connect With Me
 - Email: kcrajput2006@gmail.com
 - LinkedIn: https://www.linkedin.com/in/your-linkedin-username/)
