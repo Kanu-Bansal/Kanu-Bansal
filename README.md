@@ -39,20 +39,20 @@
 
 ## 📈 Analytics Skills
 
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4285F4?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-00ACC1?style=for-the-badge)
-![Dashboarding](https://img.shields.io/badge/Dashboarding-7B1FA2?style=for-the-badge)
-![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-43A047?style=for-the-badge)
-![Report Automation](https://img.shields.io/badge/Report_Automation-6D4C41?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-00897B?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-181717?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-181717?style=for-the-badge&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-181717?style=for-the-badge&logoColor=white)
+![Dashboarding](https://img.shields.io/badge/Dashboarding-181717?style=for-the-badge&logoColor=white)
+![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-181717?style=for-the-badge&logoColor=white)
+![Report Automation](https://img.shields.io/badge/Report_Automation-181717?style=for-the-badge&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-181717?style=for-the-badge&logoColor=white)
 
 ## 🧠 ML Concepts
 
-![Regression](https://img.shields.io/badge/Regression-FF7043?style=for-the-badge)
-![K-Means](https://img.shields.io/badge/K--Means_Clustering-5E35B1?style=for-the-badge)
-![RFM Analysis](https://img.shields.io/badge/RFM_Analysis-3949AB?style=for-the-badge)
-![Feature Selection](https://img.shields.io/badge/Feature_Selection-00838F?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-181717?style=for-the-badge&logoColor=white)
+![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-181717?style=for-the-badge&logoColor=white)
+![RFM Analysis](https://img.shields.io/badge/RFM_Analysis-181717?style=for-the-badge&logoColor=white)
+![Feature Selection](https://img.shields.io/badge/Feature_Selection-181717?style=for-the-badge&logoColor=white)
 
 ## 📫 Connect With Me
 - Email: kcrajput2006@gmail.com
