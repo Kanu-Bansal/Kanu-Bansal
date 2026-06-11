@@ -31,10 +31,10 @@
 
 ## 🛠️ Tools
 
-![PowerBI](https://img.shields.io/badge/Power_BI-181717?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-181717?style=for-the-badge&logo=microsoftexcel)
-![Tableau](https://img.shields.io/badge/Tableau-181717?style=for-the-badge&logo=tableau)
-![VS Code](https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode)
+![Power BI](https://img.shields.io/badge/Power_BI-181717?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-181717?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-181717?style=for-the-badge&logo=tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ## 📈 Analytics Skills
