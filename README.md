@@ -58,6 +58,14 @@
 
 ![Kanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanu-Bansal&show_icons=true&theme=github_dark)
 
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcchauhan&layout=compact&theme=github_dark)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kcchauhan&theme=github-dark)
+
 ## 📫 Connect With Me
 - Email: kcrajput2006@gmail.com
 - LinkedIn: https://www.linkedin.com/in/your-linkedin-username/)
