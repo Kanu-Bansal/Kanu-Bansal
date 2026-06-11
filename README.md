@@ -27,14 +27,14 @@
 
 ## 🤖 Machine Learning
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-181717?style=for-the-badge&logo=scikitlearn)
 
 ## 🛠️ Tools
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![PowerBI](https://img.shields.io/badge/Power_BI-181717?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-181717?style=for-the-badge&logo=microsoftexcel)
+![Tableau](https://img.shields.io/badge/Tableau-181717?style=for-the-badge&logo=tableau)
+![VS Code](https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ## 📈 Analytics Skills
